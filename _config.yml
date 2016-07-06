@@ -1,0 +1,28 @@
+name: Musings About Life and Work
+favicon: null
+layout_spectrum: 0.8133188616484404
+typography_spectrum: 0.13979919021949172
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5611285667400807
+  lightness: 0.15302227018401027
+  saturation: 0.017288681818172336
+  rhythmicContrast: 0.74849260924384
+purpose: []
