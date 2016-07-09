@@ -1,18 +1,18 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Day One After (Part Two)
-datePublished: '2016-07-09T20:10:05.281Z'
-dateModified: '2016-07-09T20:09:19.761Z'
+datePublished: '2016-07-09T21:59:38.491Z'
+dateModified: '2016-07-09T21:57:13.304Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-09-day-one-after-part-two.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-09-day-one-after-part-two.md
 url: day-one-after-part-two/index.html
 _type: Article
 
