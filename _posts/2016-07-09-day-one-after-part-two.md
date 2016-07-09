@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Day One After (Part Two)
-datePublished: '2016-07-09T21:59:38.491Z'
-dateModified: '2016-07-09T21:57:13.304Z'
-title: ''
-author: []
+datePublished: '2016-07-09T22:54:58.534Z'
+dateModified: '2016-07-09T22:54:18.559Z'
+title: Fun in the Kitchen
+author:
+  - name: Faun deHenry
+    url: 'https://about.me/faun.dehenry'
 sourcePath: _posts/2016-07-09-day-one-after-part-two.md
 authors: []
 publisher: null
@@ -18,7 +20,7 @@ _type: Article
 
 ---
 Day One After (Part Two)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa564345-b6db-4f02-b61b-324e1d8261bd.jpg)
+![Dan and Harper making ravioli](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa564345-b6db-4f02-b61b-324e1d8261bd.jpg)
 
 We're gathered in Dan's favorite place in the house --- our kitchen. The hospice chaplain has arrived. Kevin, my boys, and the hospice nurse are present too.
 
