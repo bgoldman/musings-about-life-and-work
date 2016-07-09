@@ -4,21 +4,21 @@
         <description><![CDATA[About Life and Work]]></description>
         <link>https://thegrid.ai/musings-about-life-and-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 21:59:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 21:59:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/musings-about-life-and-work/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Letting Go]]></title>
+            <description><![CDATA[<p>Day One After</p>]]></description>
+            <link>https://thegrid.ai/musings-about-life-and-work/day-one-after/index.html</link>
+            <guid isPermaLink="false">144adfc1-2908-4f3e-bc2a-6e7e9baeb0b8</guid>
+            <pubDate>Sat, 09 Jul 2016 21:59:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Learning To Let Go]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa564345-b6db-4f02-b61b-324e1d8261bd.jpg">]]></description>
             <link>https://thegrid.ai/musings-about-life-and-work/day-one-after-part-two/index.html</link>
             <guid isPermaLink="false">5a48a933-a025-4c94-8c44-f0ca6277683b</guid>
             <pubDate>Sat, 09 Jul 2016 21:59:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Letting Go]]></title>
-            <description><![CDATA[<p>Day One After</p>]]></description>
-            <link>https://thegrid.ai/musings-about-life-and-work/day-one-after/index.html</link>
-            <guid isPermaLink="false">144adfc1-2908-4f3e-bc2a-6e7e9baeb0b8</guid>
-            <pubDate>Sat, 09 Jul 2016 21:56:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
