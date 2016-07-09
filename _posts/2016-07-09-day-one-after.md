@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Day One After
-datePublished: '2016-07-09T21:56:34.863Z'
-dateModified: '2016-07-09T21:54:54.196Z'
+datePublished: '2016-07-09T21:59:52.961Z'
+dateModified: '2016-07-09T21:56:42.310Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-09-day-one-after.md
