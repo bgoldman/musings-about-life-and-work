@@ -1,29 +1,119 @@
-name: Musings About Life and Work
-favicon: null
-layout_spectrum: 0.8133188616484404
-typography_spectrum: 0.13979919021949172
-title: About Life and Work
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.403892364856409
+typography_spectrum: 0.9850080268215019
+color:
+  saturation: 0.20946711183820696
+  brandStrength: 0.5733389812561286
+  lightness: 0.4869632205517391
+  brandColors:
+    - '#FFFFFF'
+    - '#2D3E50'
+    - '#E84C3D'
+    - '#297FB8'
+    - '#CACACA'
+  rhythmicContrast: 0.9350661241898479
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/547edcbf-52e9-4e48-9cb6-438fc34b63ab.jpg
   type: null
   appId: null
-color:
-  brandColors:
-    - '#050511'
-    - '#987b6b'
-    - '#755441'
-    - '#f2d5c5'
-    - '#822726'
-  brandStrength: 1
-  lightness: 1
-  saturation: 0.017288681818172336
-  rhythmicContrast: 1
-purpose: []
+analytics:
+  twitter: nvkib
+  google: UA-85477580-1
+  facebook: '1758800244380958'
+author:
+  name: Faun deHenry
+  email: info@dehenry.co
+  url: 'http://dehenry.com'
+name: Life/Small Business Coaching
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: About
+    id: 927e35b0-2b02-4665-a389-7121553ff1f8
+    type: content
+  - name: What I’m reading
+    id: a91ae829-c726-4662-8101-1b07336aa049
+    type: content
+  - name: Blog
+    id: 4c261303-3706-4100-9b10-f2914c4c3150
+    type: content
+  - name: FAQ
+    id: 65770526-7889-4611-b14c-201c63b59463
+    type: content
+  - name: Schedule a meeting
+    id: 4a0cc52a-27bd-4b5e-a0c0-ebda05b3b9d7
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/50d64d0e-7aa9-4144-bb9b-7a9e780da4ae.ico
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: 'About Life & Work '
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50c232d7-92dd-45eb-b1ba-153b247fa4ad.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/50c232d7-92dd-45eb-b1ba-153b247fa4ad.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed9dbd7e-8810-4911-9643-097d8d876004.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed9dbd7e-8810-4911-9643-097d8d876004.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Find Your Fulcrum Between Your Life and Business
+purpose:
+  - type: contact
+    url: 'tel:3363478255'
+    label: Contact Me
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/64503fa0-d657-4811-a101-ffc8f4fcd421.png
