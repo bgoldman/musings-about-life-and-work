@@ -110,10 +110,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Find Your Fulcrum Between Your Life and Business
-purpose:
-  - type: contact
-    url: 'tel:3363478255'
-    label: Contact Me
+purpose: []
 github: true
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7623ade0-c655-4d9f-9fdf-cd836bdb57c5.jpg
