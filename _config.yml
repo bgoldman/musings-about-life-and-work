@@ -1,4 +1,3 @@
-layout_spectrum: 0.403892364856409
 typography_spectrum: 0.9850080268215019
 color:
   saturation: 0.20946711183820696
@@ -11,11 +10,13 @@ color:
     - '#297FB8'
     - '#CACACA'
   rhythmicContrast: 0.9350661241898479
+github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/547edcbf-52e9-4e48-9cb6-438fc34b63ab.jpg
   type: null
   appId: null
+layout_spectrum: 0.403892364856409
 analytics:
   twitter: nvkib
   google: UA-85477580-1
@@ -24,6 +25,8 @@ author:
   name: Faun deHenry
   email: info@dehenry.co
   url: 'http://dehenry.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7623ade0-c655-4d9f-9fdf-cd836bdb57c5.jpg
 name: Life/Small Business Coaching
 cta:
   bucket: null
@@ -44,6 +47,9 @@ navigation:
     type: content
   - name: Schedule a meeting
     id: 4a0cc52a-27bd-4b5e-a0c0-ebda05b3b9d7
+    type: content
+  - name: 2017 US Tax Calendar
+    id: fef30bf8-9722-4a9b-acac-ad0d6628ad44
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/50d64d0e-7aa9-4144-bb9b-7a9e780da4ae.ico
@@ -69,19 +75,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/50c232d7-92dd-45eb-b1ba-153b247fa4ad.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -93,19 +99,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed9dbd7e-8810-4911-9643-097d8d876004.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -114,6 +120,3 @@ purpose:
   - type: external
     url: 'http://dehenry.co/myguidedtour/'
     label: Grow Your Business
-github: true
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7623ade0-c655-4d9f-9fdf-cd836bdb57c5.jpg
