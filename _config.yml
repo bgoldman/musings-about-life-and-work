@@ -118,5 +118,6 @@ content:
 description: Find Your Fulcrum Between Your Life and Business
 purpose:
   - type: external
-    url: 'http://dehenry.co/training-video'
-    label: This Week's Training Video
+    url: >-
+      http://dn9lu4lqda9r4.cloudfront.net/e-learning-marketing-system/video/GuidedTour2013.mp4
+    label: Guided Tour
