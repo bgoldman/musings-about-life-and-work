@@ -116,4 +116,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Find Your Fulcrum Between Your Life and Business
-purpose: []
+purpose:
+  - type: external
+    url: 'http://dehenry.co/myguidedtour/'
+    label: Guided Tour
