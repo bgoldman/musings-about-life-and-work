@@ -1,22 +1,22 @@
-typography_spectrum: 0.9850080268215019
+layout_spectrum: 0.6760260822318753
+typography_spectrum: 0.7381076388464005
 color:
-  saturation: 0.20946711183820696
-  brandStrength: 0.5733389812561286
-  lightness: 0.4869632205517391
+  saturation: 0.2982164286326912
+  brandStrength: 0.2736016972067001
+  lightness: 0.8531286462574349
   brandColors:
     - '#FFFFFF'
     - '#2D3E50'
     - '#E84C3D'
     - '#297FB8'
     - '#CACACA'
-  rhythmicContrast: 0.9350661241898479
+  rhythmicContrast: 0.2655436428087662
 github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/547edcbf-52e9-4e48-9cb6-438fc34b63ab.jpg
   type: null
   appId: null
-layout_spectrum: 0.403892364856409
 analytics:
   twitter: nvkib
   google: UA-85477580-1
