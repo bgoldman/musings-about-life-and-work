@@ -5,10 +5,12 @@ description: >-
   know the feeling; you have a million tasks racing through your brain and
   demanding completion RIGHT NOW. On top of all of those tasks, you have
   customers, suppliers, employees vying for moments of your day.
-dateModified: '2017-02-14T17:14:48.970Z'
-datePublished: '2017-02-14T17:14:49.335Z'
+dateModified: '2017-02-14T17:17:20.330Z'
+datePublished: '2017-02-14T17:17:20.707Z'
 title: Clear Your Schedule Right Now!
-author: []
+author:
+  - name: istockphoto
+    url: 'https://istockphoto.com'
 publisher: {}
 via: {}
 sourcePath: _posts/2017-02-14-clear-your-schedule-right-now.md
