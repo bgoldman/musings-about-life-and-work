@@ -5,8 +5,8 @@ description: >-
   know the feeling; you have a million tasks racing through your brain and
   demanding completion RIGHT NOW. On top of all of those tasks, you have
   customers, suppliers, employees vying for moments of your day.
-dateModified: '2017-02-14T17:07:30.661Z'
-datePublished: '2017-02-14T17:07:30.992Z'
+dateModified: '2017-02-14T17:14:48.970Z'
+datePublished: '2017-02-14T17:14:49.335Z'
 title: Clear Your Schedule Right Now!
 author: []
 publisher: {}
@@ -19,9 +19,8 @@ url: clear-your-schedule-right-now/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac3d4451-cdbe-4b42-89dd-a53bba2e0fd8.png)
-
 # Clear Your Schedule Right Now!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac3d4451-cdbe-4b42-89dd-a53bba2e0fd8.png)
 
 As a small business owner, I used to be in a constant state of overwhelm. You know the feeling; you have a million tasks racing through your brain and demanding completion RIGHT NOW. On top of all of those tasks, you have customers, suppliers, employees vying for moments of your day.
 
@@ -74,7 +73,7 @@ Also check the [Virtual Assistant Assistant web site][2] to see ratings and revi
 
 Maybe a virtual assistant isn't right for you or your business and you really need someone to be at your place of business on a regular basis. Try using an intern. Reach out to your local community college business instructors. Let them know that you have internships available. Some academic institutions have rules about internships; others don't. Find out from the professors if their institution has rules and where they are listed.
 
-Your time is valuable and finite! There are activities that only you can perform and they must be your focus. Delegate everything that you can. By using one, or all, of the options listed above, you can bring sanity back to your business schedule and your life. 
+Your time is valuable and finite! There are activities that only you can perform and they must be your focus. Delegate everything that you can. By using one, or all, of the options listed above, you can bring sanity back to your business schedule and your life.
 
 [0]: http://globalava.org/need-a-va/ "Need A VA"
 [1]: http://ivaa.org/submit-rfp/ "Submit An RFP"
