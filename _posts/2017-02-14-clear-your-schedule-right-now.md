@@ -1,19 +1,21 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   As a small business owner, I used to be in a constant state of overwhelm. You
   know the feeling; you have a million tasks racing through your brain and
   demanding completion RIGHT NOW. On top of all of those tasks, you have
   customers, suppliers, employees vying for moments of your day.
-dateModified: '2017-02-14T17:07:19.688Z'
-datePublished: '2017-02-14T17:07:20.190Z'
+dateModified: '2017-02-14T17:07:30.661Z'
+datePublished: '2017-02-14T17:07:30.992Z'
 title: Clear Your Schedule Right Now!
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-02-14-clear-your-schedule-right-now.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-14T17:07:20.190Z'
-sourcePath: _posts/2017-02-14-clear-your-schedule-right-now.md
+url: clear-your-schedule-right-now/index.html
 _type: Blurb
 
 ---
