@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-25T20:25:22.134Z'
+datePublished: '2017-02-15T20:21:50.299Z'
 sourcePath: _posts/2016-10-07-what-im-reading.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-25T20:25:21.822Z'
+dateModified: '2017-02-15T20:21:49.795Z'
 title: What I’m Reading
 publisher: {}
 description: >-
@@ -47,7 +47,7 @@ Are you reading a book that others should know about? Hit me up on [Twitter][3] 
 
 
 
-[0]: http://eepurl.com/cjb-Wn?target="new" "Communication and Negotiation Repository"
+[0]: http://dehenry.com/articles-and-tips-for-better-communication-and-negotiation "Better Communication & Negotiation"
 [1]: http://dehenry.com/about-life-and-work-daily-news "ALAW Daily Newsletter"
 [2]: http://www.socialmediatoday.com/marketing/video-marketing-trends-12-optimization-techniques-know?nkvid "Optimization Techniques"
 [3]: https://twitter.com/entwistletx "Twitter"
