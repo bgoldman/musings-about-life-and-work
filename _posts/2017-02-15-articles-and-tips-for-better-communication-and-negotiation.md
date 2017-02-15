@@ -1,9 +1,9 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-02-15T20:17:47.597Z'
-datePublished: '2017-02-15T20:17:47.947Z'
-title: Articles & Tips For Better Communication & Negotiation
+dateModified: '2017-02-15T20:22:21.828Z'
+datePublished: '2017-02-15T20:22:22.397Z'
+title: Better Communication & Negotiation
 author: []
 publisher: {}
 via: {}
@@ -18,6 +18,6 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/79779548-779b-4a0c-9504-b621adc80d94.png)
 
-# Articles & Tips For Better Communication & Negotiation
+# Better Communication & Negotiation
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1VltPIzcUfia_4jC7agDtZJIUtEAuVUqhVAorVbTqQ1VFnvGZxOCxp7YnkK72v_fYk0kIaNkKqS-Jcq7fufg7Ge7HMfyIc6Hghgl5sRBFCbdirqoSrrQpII7HraEU6h4WBvNRlCQZV7Eo2BxtpyCXzLt0Ml0kWKTIM80xySSzVmRxrzv72MmsjcCgHEXWrSTaBaKLwK1KHEUOH13iDShJ0L6U770rslkIPbMB1-eUZfdzoyvFz9_leT6ATCIz5xJzN4BcK3feOy4f4RrlEp3I2IeJEUx-sEzZ2KIR5PGltZccwYRzWOnKgH54Wn7u667R6CUaIzhaoAYFUyscwrYQ0Mar3ELYtUsqdXbfae0BwB9IdVNnClQcCr0Ual5bBhtgJHULhJKMkHvlxe0thF47HTTXl5OfQOd15uvfbqaQC4kdOEpawySko75xsQTBR9GzNvmWhkpY5oRWfnIcF6jMqlPZ3nFHCuvigikaZJierVKbGZFiUmrrfqhGGft4hqfHrHt8zFPEPjvrn5ycspx_x4pyQBlZv8u7vTw9O42gQLfQBML7Rms4cYDDkceb2LFHFIFiBb5uETZoFC2ZFJw5pH1hZo5uFM1SydQ9hdCNbtyiVsPX2jCjsFpKv0jDRX_8u0XfWfpkhnaDpliPQZQWtAI_rErRzviWfQCFc-3E-oe3q_tF83RhRIZWKvQ4DChjBtEEu7SyQqG1-8OEktYzWpckFPfx0cYG_66EQR6Nh7ZkqjFg1tGS2vtofERDJsUYNj7Q-AwTCrkbmNqZC5Q89m-jDAVLlqL0--y1GF_eTH6ZRuNL_2z98htCSJ17PTltWgjj4wlVVm79RNFHiYCmUNGvZqZ1iiZagxbWxvV8NkBab6ri6tPk5jIaXwljHXyirG8uwbPMiwrq8M8r2GJfp38b9mntPGX_C_TpN6BPd6HvPXkzSNtoS60s2k2AQKu-ir2nRTZ227BEkdrEW3kgplHEhS0lW50rrZBWfJ3zG7FslWW0lf81Wv0d3r8_ZAaZhBJ1STxsF7qSnHjCedKUNfESVfvniY8lZg7mWnsGJua1EAPXwdggMTXW5kTufhz1RUhJWXOK9UdxQzprgMR8whPFObDUalk5HIA_SecQn3S73fJxEBHnCBYvBDEe8bEzla_k5VTrYaazrxLw7CnzOpYSPeDjKIp7241oOrRBuTvTnazEvYXYbtPPgsq_QZiESew3eDYM_Qq9b1YnrZzTahfF-r0kvpnb5-MdyzWSdjj7d2zJamkbrMlG7SSx33dYwf7Rij3YcKw4XWypGX_-F-TOJgSsuQydO9smCHWw8eupxgd5pcKlPHh_CJ8fqKf6oZP72i2M6BI8wMQYtjo4HECj9JGeK2uPP7t_jdqB5dqD2ixIAg22G5seSQKbbGy8xAPbmPRJMN0x6W9Mvhzc_VqhWR0eDpbMwPsiuyMstayj9IVWuRSZO_B7djjYtKHlX8qlv2W7h5J2-l8iDWMw" height="550" style=""></iframe>
