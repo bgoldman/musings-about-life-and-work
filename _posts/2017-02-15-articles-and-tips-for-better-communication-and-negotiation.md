@@ -1,16 +1,18 @@
 ---
-inFeed: true
+inFeed: false
 description: ''
-dateModified: '2017-02-15T20:16:27.571Z'
-datePublished: '2017-02-15T20:16:28.124Z'
+dateModified: '2017-02-15T20:16:45.989Z'
+datePublished: '2017-02-15T20:16:46.346Z'
 title: Articles & Tips For Better Communication & Negotiation
 author: []
 publisher: {}
 via: {}
 sourcePath: >-
   _posts/2017-02-15-articles-and-tips-for-better-communication-and-negotiation.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-15T20:15:03.087Z'
+url: articles-and-tips-for-better-communication-and-negotiation/index.html
 _type: Blurb
 
 ---
