@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-02-15T20:16:45.989Z'
-datePublished: '2017-02-15T20:16:46.346Z'
+dateModified: '2017-02-15T20:17:47.597Z'
+datePublished: '2017-02-15T20:17:47.947Z'
 title: Articles & Tips For Better Communication & Negotiation
 author: []
 publisher: {}
