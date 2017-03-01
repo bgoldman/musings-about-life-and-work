@@ -1,16 +1,16 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-03-01T17:08:54.758Z'
-datePublished: '2017-03-01T17:08:55.255Z'
+dateModified: '2017-03-01T17:10:32.410Z'
+datePublished: '2017-03-01T17:10:32.827Z'
 title: Thank You & Welcome!
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-01-thank-you-and-welcome.md
 starred: false
 datePublishedOriginal: '2017-03-01T17:08:55.255Z'
-sourcePath: _posts/2017-03-01-thank-you-and-welcome.md
 url: thank-you-and-welcome/index.html
 _type: Blurb
 
