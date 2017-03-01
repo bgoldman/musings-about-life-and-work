@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-03-01T17:53:35.336Z'
-datePublished: '2017-03-01T17:53:35.654Z'
+dateModified: '2017-03-01T17:54:53.209Z'
+datePublished: '2017-03-01T17:54:53.518Z'
 title: Thank You & Welcome!
 author: []
 publisher: {}
@@ -25,4 +25,4 @@ _type: Blurb
 
 ### 
 
-[0]: https://spideroak.com/browse/share/ALAW/MarketSuccess/MarketingSuccess/ "ALAW Market Success"
+[0]: https://spideroak.com/browse/share/ALAW/MarketSuccess/MarketingSuccess/
