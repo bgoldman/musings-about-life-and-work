@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-03-01T20:27:35.118Z'
-datePublished: '2017-03-01T20:27:49.720Z'
+dateModified: '2017-03-01T23:29:30.971Z'
+datePublished: '2017-03-01T23:29:31.287Z'
 title: Thank You & Welcome!
 author: []
 publisher: {}
@@ -10,7 +10,7 @@ via: {}
 hasPage: true
 sourcePath: _posts/2017-03-01-thank-you-and-welcome.md
 starred: false
-datePublishedOriginal: '2017-03-01T20:27:49.720Z'
+datePublishedOriginal: '2017-03-01T23:29:03.262Z'
 url: thank-you-and-welcome/index.html
 _type: Blurb
 
@@ -23,4 +23,4 @@ _type: Blurb
 
 ### Click [here to download][0] our proven marketing success formula.
 
-[0]: https://spideroak.com/browse/share/ALAW/MarketSuccess/MarketingSuccess/
+[0]: https://spideroak.com/browse/share/ALAW/MarketSuccess/MarketingSuccess/ "Market Success"
