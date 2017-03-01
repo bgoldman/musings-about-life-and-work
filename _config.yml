@@ -39,6 +39,9 @@ navigation:
   - name: 2017 US Tax Calendar
     id: fef30bf8-9722-4a9b-acac-ad0d6628ad44
     type: content
+  - name: Helpful Articles
+    id: e8e6f0aa-67e6-4359-937b-592be785797b
+    type: content
   - name: What I’m reading
     id: a91ae829-c726-4662-8101-1b07336aa049
     type: content
@@ -50,9 +53,6 @@ navigation:
     type: content
   - name: Schedule a meeting
     id: 4a0cc52a-27bd-4b5e-a0c0-ebda05b3b9d7
-    type: content
-  - name: Helpful Articles
-    id: e8e6f0aa-67e6-4359-937b-592be785797b
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/50d64d0e-7aa9-4144-bb9b-7a9e780da4ae.ico
