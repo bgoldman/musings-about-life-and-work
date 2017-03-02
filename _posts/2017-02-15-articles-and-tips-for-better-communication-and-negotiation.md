@@ -1,9 +1,9 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-03-02T15:36:28.636Z'
-datePublished: '2017-03-02T15:36:29.323Z'
-title: Better Communication & Negotiation
+dateModified: '2017-03-02T22:25:12.008Z'
+datePublished: '2017-03-02T22:25:12.375Z'
+title: Negotiate Like A Pro
 author: []
 publisher: {}
 via: {}
@@ -16,7 +16,7 @@ url: articles-and-tips-for-better-communication-and-negotiation/index.html
 _type: Blurb
 
 ---
-# Better Communication & Negotiation
+# Negotiate Like A Pro
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/79779548-779b-4a0c-9504-b621adc80d94.png)
 
 ## Not getting what you want?
@@ -27,4 +27,7 @@ _type: Blurb
 
 ### Enjoy reading? Check out my [self improvement reading list][0]!
 
+### Or [click here][1] to join me on Tuesdays at noon Central time for my Ask Me Anything Lunch and Learn.
+
 [0]: http://dehenry.com/what-im-reading
+[1]: https://attendee.gotowebinar.com/rt/8560101924052575747
