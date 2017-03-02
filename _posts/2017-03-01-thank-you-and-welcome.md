@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-03-01T23:38:01.096Z'
-datePublished: '2017-03-01T23:38:01.545Z'
+dateModified: '2017-03-02T00:43:31.756Z'
+datePublished: '2017-03-02T00:43:32.047Z'
 title: Thank You & Welcome!
 author: []
 publisher: {}
@@ -23,4 +23,4 @@ _type: Blurb
 
 ### Click [here to download][0] our proven marketing success formula.
 
-[0]: https://spideroak.com/browse/share/ALAW/MarketSuccess/MarketingSuccess/ "ALAW_MarketSuccess.pdf"
+[0]: https://spideroak.com/browse/share/ALAW/MarketSuccess/MarketingSuccess/?title=ALAW_MarketSuccess.pdf
