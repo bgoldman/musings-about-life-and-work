@@ -36,14 +36,14 @@ navigation:
   - name: About
     id: 927e35b0-2b02-4665-a389-7121553ff1f8
     type: content
-  - name: 2017 US Tax Calendar
-    id: fef30bf8-9722-4a9b-acac-ad0d6628ad44
-    type: content
-  - name: Become A Champion Communicator
+  - name: Negotiate Like A Pro
     id: e8e6f0aa-67e6-4359-937b-592be785797b
     type: content
   - name: Strategic vs Tactical Marketing
     id: d8272aaf-37ef-4ded-9a56-8157c3936eb1
+    type: content
+  - name: 2017 US Tax Calendar
+    id: fef30bf8-9722-4a9b-acac-ad0d6628ad44
     type: content
   - name: Blog
     id: 4c261303-3706-4100-9b10-f2914c4c3150
