@@ -42,9 +42,6 @@ navigation:
   - name: Helpful Articles
     id: e8e6f0aa-67e6-4359-937b-592be785797b
     type: content
-  - name: What I’m reading
-    id: a91ae829-c726-4662-8101-1b07336aa049
-    type: content
   - name: Blog
     id: 4c261303-3706-4100-9b10-f2914c4c3150
     type: content
