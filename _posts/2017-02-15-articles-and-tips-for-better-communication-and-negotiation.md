@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-03-03T00:56:28.145Z'
-datePublished: '2017-03-03T00:56:28.465Z'
+dateModified: '2017-03-03T00:59:27.566Z'
+datePublished: '2017-03-03T00:59:27.873Z'
 title: Negotiate Like A Pro
 author: []
 publisher: {}
@@ -27,6 +27,7 @@ _type: Blurb
 
 ### Enjoy reading? Check out my [self improvement reading list][0]!
 
-### Or click here to join me on Tuesdays at noon Central time for my Ask Me Anything Lunch and Learn.
+### Or [click here to join][1] me on Tuesdays at noon Central time for my Ask Me Anything Lunch and Learn.
 
 [0]: http://dehenry.com/what-im-reading/?=what-im-reading
+[1]: https://attendee.gotowebinar.com/rt/8560101924052575747?=AMAWebinar
