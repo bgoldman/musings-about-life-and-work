@@ -51,6 +51,9 @@ navigation:
   - name: Testing
     id: 0259f439-fd32-41ac-931e-2d52e332adb0
     type: content
+  - name: Testing02
+    id: 65770526-7889-4611-b14c-201c63b59463
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/50d64d0e-7aa9-4144-bb9b-7a9e780da4ae.ico
 collections:
