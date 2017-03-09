@@ -48,9 +48,6 @@ navigation:
   - name: Schedule a meeting
     id: 4a0cc52a-27bd-4b5e-a0c0-ebda05b3b9d7
     type: content
-  - name: Testing
-    id: 4803397c-8c9c-4dd2-b90d-50428b6f00cd
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/50d64d0e-7aa9-4144-bb9b-7a9e780da4ae.ico
 collections:
