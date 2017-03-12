@@ -1,9 +1,9 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-03-12T19:13:53.252Z'
-datePublished: '2017-03-12T19:13:54.292Z'
-title: Negotiate Like A Pro
+dateModified: '2017-03-12T19:15:48.175Z'
+datePublished: '2017-03-12T19:15:48.472Z'
+title: Tired of Not Getting What You Want?
 author: []
 publisher: {}
 via: {}
@@ -16,10 +16,10 @@ url: articles-and-tips-for-better-communication-and-negotiation/index.html
 _type: Blurb
 
 ---
-# Negotiate Like A Pro
+# Tired of Not Getting What You Want?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/79779548-779b-4a0c-9504-b621adc80d94.png)
 
-## Not getting what you want?
+## Learn from expert negotiators and communicators
 
 ### Whether you're negotiating your salary, a car or home purchase, or curfew with your teenager --- good communication and negotiation skills are essential!
 
