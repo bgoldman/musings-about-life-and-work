@@ -1,18 +1,18 @@
 ---
-inFeed: true
+inFeed: false
 description: Photo Repository
-dateModified: '2017-03-13T21:41:45.466Z'
-datePublished: '2017-03-13T21:41:45.772Z'
+dateModified: '2017-03-13T21:42:07.407Z'
+datePublished: '2017-03-13T21:42:08.279Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-13-photo-repository.md
 starred: false
 datePublishedOriginal: '2017-03-13T21:41:45.772Z'
-sourcePath: _posts/2017-03-13-photo-repository.md
 url: photo-repository/index.html
-_type: Article
+_type: Blurb
 
 ---
 Photo Repository
