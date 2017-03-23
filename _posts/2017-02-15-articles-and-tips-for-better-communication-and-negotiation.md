@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Whether you’re negotiating your salary, a car or home purchase, or curfew with
   your teenager — good communication and negotiation skills are essential!
-dateModified: '2017-03-12T19:16:57.486Z'
-datePublished: '2017-03-12T19:16:58.029Z'
+dateModified: '2017-03-23T02:11:16.326Z'
+datePublished: '2017-03-23T02:11:16.922Z'
 title: Tired of Not Getting What You Want?
 author: []
 publisher: {}
