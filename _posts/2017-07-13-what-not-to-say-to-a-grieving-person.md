@@ -4,8 +4,8 @@ description: >-
   What is the first thought or reaction you have upon hearing that someone in
   your second tier circle (a distant family member, friend of a friend, or
   business colleague) has died?
-dateModified: '2017-07-13T15:56:39.542Z'
-datePublished: '2017-07-13T15:56:39.906Z'
+dateModified: '2017-07-13T16:02:44.727Z'
+datePublished: '2017-07-13T16:02:45.072Z'
 title: What Not to Say to a Grieving Person
 author: []
 publisher: {}
@@ -60,4 +60,4 @@ The most helpful (and obviously memorable) condolence I ever received was after 
 
 Her condolence was honest, respectful, and genuine. It meant the world to me when I heard it.
 
-The next time, you find yourself offering condolences, think about my friend's mother. Say something that's honest and respectful, instead of clichéd and potentially offensive.
+The next time, you find yourself offering condolences, think about my friend's mother. Say something that's honest and respectful, instead of clichéd and potentially offensive. The grieving loved one will appreciate your effort.
