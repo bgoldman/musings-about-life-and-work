@@ -4,16 +4,16 @@ description: >-
   What is the first thought or reaction you have upon hearing that someone in
   your second tier circle (a distant family member, friend of a friend, or
   business colleague) has died?
-dateModified: '2017-07-13T15:55:17.110Z'
-datePublished: '2017-07-13T15:55:17.425Z'
+dateModified: '2017-07-13T15:56:39.542Z'
+datePublished: '2017-07-13T15:56:39.906Z'
 title: What Not to Say to a Grieving Person
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-07-13-what-not-to-say-to-a-grieving-person.md
 starred: false
 datePublishedOriginal: '2017-07-13T15:55:17.425Z'
-sourcePath: _posts/2017-07-13-what-not-to-say-to-a-grieving-person.md
 url: what-not-to-say-to-a-grieving-person/index.html
 _type: Blurb
 
