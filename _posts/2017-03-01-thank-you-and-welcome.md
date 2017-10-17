@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-03-02T00:43:31.756Z'
-datePublished: '2017-03-02T00:43:32.047Z'
+dateModified: '2017-10-17T21:01:00.193Z'
+datePublished: '2017-10-17T21:01:00.614Z'
 title: Thank You & Welcome!
 author: []
 publisher: {}
@@ -21,6 +21,6 @@ _type: Blurb
 
 ### You're about to embark on an amazing new adventure with your business.
 
-### Click [here to download][0] our proven marketing success formula.
+### Click [here to download][0] my proven business success framework.
 
-[0]: https://spideroak.com/browse/share/ALAW/MarketSuccess/MarketingSuccess/?title=ALAW_MarketSuccess.pdf
+[0]: https://spideroak.com/browse/share/ALAW/FrameworkForGrowth/FrameworkForGrowth/ "Grow Your Business Framework"
