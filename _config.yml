@@ -33,17 +33,17 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: About
-    id: 927e35b0-2b02-4665-a389-7121553ff1f8
-    type: content
   - name: Negotiate Like A Pro!
     url: 'https://offers.dehenry.com/registration-page13003699'
     type: external
-  - name: Test 10
-    id: 3cee0f9c-b0f6-4304-b563-298a3aae1d3e
+  - name: About
+    id: 927e35b0-2b02-4665-a389-7121553ff1f8
     type: content
   - name: Blog
     id: 4c261303-3706-4100-9b10-f2914c4c3150
+    type: content
+  - name: Test 10
+    id: 3cee0f9c-b0f6-4304-b563-298a3aae1d3e
     type: content
   - name: Member Log In
     url: 'http://dehenry.co/members/login'
