@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-10-18T16:03:33.445Z'
-datePublished: '2017-10-18T16:03:34.081Z'
+dateModified: '2017-10-19T03:15:37.212Z'
+datePublished: '2017-10-19T03:15:37.571Z'
 title: Thank You & Welcome!
 author: []
 publisher: {}
