@@ -1,19 +1,21 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   In the best of circumstances, it's a challenge to find a stylist or colorist
   that you can trust with your hair. Yes, I'm talking about hair and, trust me,
   it's a big deal for any woman to trust the style and color of her hair to
   another human.
-dateModified: '2018-02-23T23:54:32.696Z'
-datePublished: '2018-02-23T23:54:33.406Z'
+dateModified: '2018-02-23T23:56:06.803Z'
+datePublished: '2018-02-23T23:56:07.453Z'
 title: Digital Nomad Challenges
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-02-23-digital-nomad-challenges.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-02-23T23:54:33.406Z'
-sourcePath: _posts/2018-02-23-digital-nomad-challenges.md
+url: digital-nomad-challenges/index.html
 _type: Blurb
 
 ---
