@@ -5,8 +5,8 @@ description: >-
   that you can trust with your hair. Yes, I'm talking about hair and, trust me,
   it's a big deal for any woman to trust the style and color of her hair to
   another human.
-dateModified: '2018-02-23T23:56:06.803Z'
-datePublished: '2018-02-23T23:56:07.453Z'
+dateModified: '2018-02-24T00:05:27.955Z'
+datePublished: '2018-02-24T00:05:28.613Z'
 title: Digital Nomad Challenges
 author: []
 publisher: {}
@@ -25,10 +25,11 @@ _type: Blurb
 
 In the best of circumstances, it's a challenge to find a stylist or colorist that you can trust with your hair. Yes, I'm talking about hair and, trust me, it's a big deal for any woman to trust the style and color of her hair to another human.
 
-Even if you're in your hometown where you can ask numerous friends and acquaintances who they allow to color and style their hair, it's still a time consuming process. Hair is very important! You might talk with several specialists before you decide upon someone.  
+Even if you're in your hometown where you can ask numerous friends and acquaintances who they allow to color and style their hair, it's still a time consuming process. Hair is very important! You might talk with several specialists before you decide upon someone.
+
 Now, imagine that you're out of your hometown and in another country where the spoken language isn't the one you've known all of your life. What do you do? Here's what I did. I started looking at the hair of every Medellin woman working around me. Oh, if there is such a thing as an unattractive Colombiana, I've yet to see her. The women in Medellin are incredibly beautiful.
 
-Anyway I asked one these beautiful women, with absolutely gorgeous hair, and who worked in the same co-working space that I was using who did her hair. I figured whoever did her hair was reasonably good and wouldn't destroy my carefully nurtured (and highly colored) hair. 
+Anyway I asked one these beautiful women, with absolutely gorgeous hair, and who worked in the same co-working space that I was using who did her hair. I figured whoever did her hair was reasonably good and wouldn't destroy my carefully nurtured (and highly colored) hair.
 
 Little did I know about the adventure that was in front of me.
 
@@ -42,6 +43,6 @@ We arrived and Mery wasn't there yet, but she was on her way. Juana whispered to
 
 Mery came breezing in to the salon making apologies all around. She hugged Juana and kissed her cheek, which I have since discovered is a standard greeting protocol in Medellin. Mery promptly sat me down in her styling chair, put a color drape over me, and gently rubbed my back as if to say, "Don't worry everything will be fine." or in Spanish, "Tranquila."
 
-The color solution went on. We waited for forty minutes. Mery shampooedand rinsed my hair. Then she combed it out and dried it. My hair...WAS. AMAZING! It was the same color as before and absolutely beautiful! 
+The color solution went on. We waited for forty minutes. Mery shampooedand rinsed my hair. Then she combed it out and dried it. My hair...WAS. AMAZING! It was the same color as before and absolutely beautiful!
 
 Will I go anywhere else but Mery's salon in Colombia? No! My hair challenges are behind me for the time being.
