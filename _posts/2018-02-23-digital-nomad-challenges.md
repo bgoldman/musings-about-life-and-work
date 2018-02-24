@@ -5,11 +5,13 @@ description: >-
   that you can trust with your hair. Yes, I'm talking about hair and, trust me,
   it's a big deal for any woman to trust the style and color of her hair to
   another human.
-dateModified: '2018-02-24T00:05:27.955Z'
-datePublished: '2018-02-24T00:05:28.613Z'
+dateModified: '2018-02-24T00:20:51.196Z'
+datePublished: '2018-02-24T00:20:51.999Z'
 title: Digital Nomad Challenges
 author: []
-publisher: {}
+publisher:
+  name: Pixabay
+  url: 'https://pixabay.com/en/girl-rustic-grass-meadow-green-1327774/'
 via: {}
 sourcePath: _posts/2018-02-23-digital-nomad-challenges.md
 hasPage: true
@@ -22,6 +24,7 @@ _type: Blurb
 # Digital Nomad Challenges
 
 ## (Finding A Good Stylist)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b8d6796-7415-4450-80b6-7e82b06a7010.jpg)
 
 In the best of circumstances, it's a challenge to find a stylist or colorist that you can trust with your hair. Yes, I'm talking about hair and, trust me, it's a big deal for any woman to trust the style and color of her hair to another human.
 
