@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   When was the last time you walked into a coffee house or shop and before you
   ordered the barista told you her name and asked for yours?
-dateModified: '2018-03-16T23:35:06.343Z'
-datePublished: '2018-03-16T23:35:07.628Z'
+dateModified: '2018-03-16T23:37:32.980Z'
+datePublished: '2018-03-16T23:37:33.742Z'
 title: Working and Hanging Out in Medellín
 author: []
 publisher: {}
