@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 2amigos white paper cover
-dateModified: '2017-11-21T14:41:11.334Z'
-datePublished: '2017-11-21T14:41:11.815Z'
+dateModified: '2018-04-05T22:25:37.251Z'
+datePublished: '2018-04-05T22:25:37.815Z'
 title: Photo Repository 2
 author: []
 publisher: {}
@@ -22,6 +22,8 @@ _type: Blurb
 2amigos white paper cover
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4ae7ea3-bb81-4502-9e19-1a5fbc63e39a.png)
 
-Twitter image for webinar --- FdH ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/496000d2-7348-4802-8462-58af78f03bb1.png)
+Twitter image for webinar --- FdH
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/496000d2-7348-4802-8462-58af78f03bb1.png)
 
 Twitter image for webinar --- VM
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/283742f1-b679-4e54-a667-ff1bb7e3d7ff.jpg)
