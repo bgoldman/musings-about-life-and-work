@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Twitter Course Image
-dateModified: '2018-04-16T20:00:35.703Z'
-datePublished: '2018-04-16T20:00:36.249Z'
+dateModified: '2018-04-16T19:15:53.053Z'
+datePublished: '2018-04-16T19:15:53.651Z'
 title: Photo Repository 3
 author: []
 publisher: {}
