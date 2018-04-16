@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 2amigos white paper cover
-dateModified: '2018-04-16T19:00:36.290Z'
-datePublished: '2018-04-16T19:00:36.788Z'
+dateModified: '2018-04-16T19:00:40.788Z'
+datePublished: '2018-04-16T19:00:41.140Z'
 title: Photo Repository 2
 author: []
 publisher: {}
