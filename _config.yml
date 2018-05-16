@@ -51,9 +51,6 @@ navigation:
   - name: Digital Nomad Life
     id: bd9bb45e-6d03-41e9-b160-ebfcd052c988
     type: content
-  - name: Twitter Testimonial
-    id: a6b6b692-5adf-4f53-a6b1-9c913a663413
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/50d64d0e-7aa9-4144-bb9b-7a9e780da4ae.ico
 collections:
