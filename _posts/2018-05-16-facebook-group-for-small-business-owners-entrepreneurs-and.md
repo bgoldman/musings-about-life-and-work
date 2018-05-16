@@ -1,19 +1,21 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   Going out on your own is exciting! You’re creating a new existence for
   yourself. You’re in control of your time, your workplace, your customers . . .
   everything.
-dateModified: '2018-05-16T17:47:30.674Z'
-datePublished: '2018-05-16T17:47:31.578Z'
+dateModified: '2018-05-16T17:47:44.218Z'
+datePublished: '2018-05-16T17:47:45.341Z'
 title: 'Facebook Group for Small Business Owners, Entrepreneurs, and Freelancers!'
 author: []
 publisher: {}
 via: {}
 sourcePath: >-
   _posts/2018-05-16-facebook-group-for-small-business-owners-entrepreneurs-and.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-05-16T17:46:48.266Z'
+url: facebook-group-for-small-business-owners-entrepreneurs-and/index.html
 _type: Blurb
 
 ---
