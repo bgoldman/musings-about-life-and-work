@@ -4,8 +4,8 @@ description: >-
   Going out on your own is exciting! You’re creating a new existence for
   yourself. You’re in control of your time, your workplace, your customers . . .
   everything.
-dateModified: '2018-05-16T18:18:12.489Z'
-datePublished: '2018-05-16T18:18:13.689Z'
+dateModified: '2018-05-16T18:19:39.337Z'
+datePublished: '2018-05-16T18:19:40.871Z'
 title: Facebook Group
 author: []
 publisher: {}
@@ -26,6 +26,8 @@ _type: Blurb
 
 Going out on your own is exciting! You're creating a new existence for yourself. You're in control of your time, your workplace, your customers . . . everything.
 
-Until, you realize that you aren't! Where do you turn? Who do you talk with? Working on your own can be lonely, but it doesn't need to be. [Join me and over 400 other small business owners, entrepreneurs, and freelancers!][0] Let's talk about the great things and the challenges.
+Until, you realize that you aren't! 
+
+Where do you turn? Who do you talk with? Working on your own can be lonely, but it doesn't need to be. [Join me and over 400 other small business owners, entrepreneurs, and freelancers!][0] Let's talk about the great things and the challenges.
 
 [0]: https://www.facebook.com/groups/alandw/
