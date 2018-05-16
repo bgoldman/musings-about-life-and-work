@@ -4,9 +4,9 @@ description: >-
   Going out on your own is exciting! You’re creating a new existence for
   yourself. You’re in control of your time, your workplace, your customers . . .
   everything.
-dateModified: '2018-05-16T17:47:44.218Z'
-datePublished: '2018-05-16T17:47:45.341Z'
-title: 'Facebook Group for Small Business Owners, Entrepreneurs, and Freelancers!'
+dateModified: '2018-05-16T17:48:13.860Z'
+datePublished: '2018-05-16T17:48:14.656Z'
+title: 'Facebook Group '
 author: []
 publisher: {}
 via: {}
@@ -21,7 +21,9 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a5fdd73-01fd-4016-b9e7-28ff97551642.jpg)
 
-# Facebook Group for Small Business Owners, Entrepreneurs, and Freelancers!
+# Facebook Group 
+
+## For Small Business Owners, Entrepreneurs, and Freelancers!
 
 Going out on your own is exciting! You're creating a new existence for yourself. You're in control of your time, your workplace, your customers . . . everything.
 
