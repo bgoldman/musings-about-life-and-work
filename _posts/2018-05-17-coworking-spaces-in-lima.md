@@ -4,16 +4,18 @@ description: >-
   I arrived in Lima late in the day. By the time I reached my rented apartment,
   it was after 10 pm. Still I was happy, excited, and ready for a new
   experience.
-dateModified: '2018-05-17T18:39:52.460Z'
-datePublished: '2018-05-17T18:39:53.300Z'
+dateModified: '2018-05-17T18:41:31.197Z'
+datePublished: '2018-05-17T18:41:31.841Z'
 title: Coworking Spaces In Lima
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-05-17-coworking-spaces-in-lima.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-05-17T18:39:53.300Z'
-sourcePath: _posts/2018-05-17-coworking-spaces-in-lima.md
-_type: Blurb
+url: coworking-spaces-in-lima/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fae0a80-fb6b-40f3-9459-98d0b7b6dfe6.jpg)
