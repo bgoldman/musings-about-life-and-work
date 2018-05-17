@@ -1,11 +1,11 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   I arrived in Lima late in the day. By the time I reached my rented apartment,
   it was after 10 pm. Still I was happy, excited, and ready for a new
   experience.
-dateModified: '2018-05-17T18:41:31.197Z'
-datePublished: '2018-05-17T18:41:31.841Z'
+dateModified: '2018-05-17T18:41:50.652Z'
+datePublished: '2018-05-17T18:41:51.488Z'
 title: Coworking Spaces In Lima
 author: []
 publisher: {}
@@ -15,7 +15,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2018-05-17T18:39:53.300Z'
 url: coworking-spaces-in-lima/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fae0a80-fb6b-40f3-9459-98d0b7b6dfe6.jpg)
@@ -24,7 +24,7 @@ _type: Article
 
 I arrived in Lima late in the day. By the time I reached my rented apartment, it was after 10 pm. Still I was happy, excited, and ready for a new experience.
 
-The next morning I started my rounds of coworking spaces. Little guessing what surprises were in store for me. Over the next couple of days I probably visited four different places. What I noticed first was how formal these coworking places were. 
+The next morning I started my rounds of coworking spaces. Little guessing what surprises were in store for me. Over the next couple of days I probably visited four different places. What I noticed first was how formal these coworking places were.
 
 When I was able to visit inside a space, no one, apart from the manager/owner, spoke to me. Located in guarded office buildings, they had definite hours, no deviation. Another difference I observed was that I had to accommodate their schedule. If a space wasn't ready to give me a tour, tough. I could return later or move on. Most often I chose to move on. Finally they were really expensive, as in seriously more expensive than U.S. spaces expensive.
 
