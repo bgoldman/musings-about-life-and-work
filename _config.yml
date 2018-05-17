@@ -48,9 +48,6 @@ navigation:
   - name: Schedule a meeting
     id: 4a0cc52a-27bd-4b5e-a0c0-ebda05b3b9d7
     type: content
-  - name: Digital Nomad Life
-    id: bd9bb45e-6d03-41e9-b160-ebfcd052c988
-    type: content
   - name: Facebook Group
     id: dc2219be-0cfe-4e81-91d4-c0293d38ca05
     type: content
