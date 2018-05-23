@@ -36,6 +36,9 @@ navigation:
   - name: About Me
     id: 927e35b0-2b02-4665-a389-7121553ff1f8
     type: content
+  - name: Musings On Balance
+    id: 2022067a-0d77-4ae6-9efb-e04a438dafe5
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/50d64d0e-7aa9-4144-bb9b-7a9e780da4ae.ico
 collections:
