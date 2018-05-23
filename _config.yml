@@ -36,9 +36,6 @@ navigation:
   - name: My Story
     id: 927e35b0-2b02-4665-a389-7121553ff1f8
     type: content
-  - name: Digital Nomad Life
-    id: 43b2c1bf-cb21-4c64-bddf-88190eaa6a26
-    type: content
   - name: Test
     id: 88573f6c-5b79-4750-933b-e333d5f9971a
     type: content
