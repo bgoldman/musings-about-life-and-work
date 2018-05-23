@@ -33,7 +33,7 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: My Story
+  - name: About Me
     id: 927e35b0-2b02-4665-a389-7121553ff1f8
     type: content
 favicon: >-
