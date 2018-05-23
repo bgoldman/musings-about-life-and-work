@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-05-23T23:06:06.732Z'
-datePublished: '2018-05-23T23:06:07.697Z'
+dateModified: '2018-05-23T23:08:40.917Z'
+datePublished: '2018-05-23T23:08:42.021Z'
 title: Musings On Balance
 author: []
 publisher: {}
@@ -21,5 +21,5 @@ _type: Blurb
 
 ### [Balance Is Essential!][1]
 
-[0]: http://dehenry.com/do-you-know-your-why/index.html?title=&amp;quot;Do%20You%20Know%20Your%20Why&amp;quot;%22%20title=%22%22%20title=%22Do%20You%20Know%20Your%20Why
+[0]: http://dehenry.com/do-you-know-your-why/?title=&amp;quot;Do%20You%20Know%20Your%20Why&amp;quot;%22%20title=%22%22%20title=%22Do%20You%20Know%20Your%20Why
 [1]: http://dehenry.com/balance-is-essential/index.html?title=&amp;quot;Balance%20Is%20Essential&amp;quot;%22%20title=%22%22%20title=%22Balance%20Is%20Essential
