@@ -36,9 +36,6 @@ navigation:
   - name: My Story
     id: 927e35b0-2b02-4665-a389-7121553ff1f8
     type: content
-  - name: Member Log In
-    url: 'http://dehenry.co/members/login'
-    type: external
   - name: Facebook Group
     id: dc2219be-0cfe-4e81-91d4-c0293d38ca05
     type: content
