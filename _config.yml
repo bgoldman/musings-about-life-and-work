@@ -54,6 +54,9 @@ navigation:
   - name: Digital Nomad Life
     id: 43b2c1bf-cb21-4c64-bddf-88190eaa6a26
     type: content
+  - name: Test
+    id: 88573f6c-5b79-4750-933b-e333d5f9971a
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/50d64d0e-7aa9-4144-bb9b-7a9e780da4ae.ico
 collections:
