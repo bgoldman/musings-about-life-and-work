@@ -36,9 +36,6 @@ navigation:
   - name: My Story
     id: 927e35b0-2b02-4665-a389-7121553ff1f8
     type: content
-  - name: Do You Know Your "Why"?
-    id: fd672a11-4eaa-43e3-8072-d51f4d4cc9ad
-    type: content
   - name: Blog
     id: 4c261303-3706-4100-9b10-f2914c4c3150
     type: content
