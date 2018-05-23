@@ -4,8 +4,8 @@ description: >-
   Going out on your own is exciting! You’re creating a new existence for
   yourself. You’re in control of your time, your workplace, your customers . . .
   everything.
-dateModified: '2018-05-16T18:19:39.337Z'
-datePublished: '2018-05-16T18:19:40.871Z'
+dateModified: '2018-05-23T22:43:39.795Z'
+datePublished: '2018-05-23T22:43:40.487Z'
 title: Facebook Group
 author: []
 publisher: {}
