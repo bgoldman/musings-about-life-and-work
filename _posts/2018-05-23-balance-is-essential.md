@@ -4,16 +4,18 @@ description: >-
   Today I'm reminded about why balance is so very important. This isn’t about a
   business tagline or catch phrase. I believe deeply that without balance  we
   injure ourselves and damage our lives.
-dateModified: '2018-05-23T22:20:40.080Z'
-datePublished: '2018-05-23T22:20:42.187Z'
+dateModified: '2018-05-23T22:23:46.227Z'
+datePublished: '2018-05-23T22:23:46.997Z'
 title: Balance Is Essential!
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-05-23-balance-is-essential.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-05-23T22:20:42.187Z'
-sourcePath: _posts/2018-05-23-balance-is-essential.md
-_type: Blurb
+url: balance-is-essential/index.html
+_type: Article
 
 ---
 # Balance Is Essential!
