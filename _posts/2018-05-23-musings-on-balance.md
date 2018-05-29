@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-05-23T23:08:40.917Z'
-datePublished: '2018-05-23T23:08:42.021Z'
+dateModified: '2018-05-29T21:46:31.347Z'
+datePublished: '2018-05-29T21:46:31.935Z'
 title: Musings On Balance
 author: []
 publisher: {}
