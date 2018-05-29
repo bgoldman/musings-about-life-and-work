@@ -36,9 +36,6 @@ navigation:
   - name: About Me
     id: 927e35b0-2b02-4665-a389-7121553ff1f8
     type: content
-  - name: What Is Strategic Marketing?
-    id: d8272aaf-37ef-4ded-9a56-8157c3936eb1
-    type: content
   - name: Book An Introductory Meeting
     url: 'https://my.timetrade.com/book/56R7L'
     type: external
