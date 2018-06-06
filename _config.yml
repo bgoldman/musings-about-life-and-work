@@ -36,9 +36,6 @@ navigation:
   - name: About Me
     id: 927e35b0-2b02-4665-a389-7121553ff1f8
     type: content
-  - name: Digital Nomad Life
-    id: c71ea35f-ea18-41e7-a8bd-1e24777e22b2
-    type: content
   - name: Musings On Balance
     id: 2022067a-0d77-4ae6-9efb-e04a438dafe5
     type: content
