@@ -1,15 +1,17 @@
 ---
-inFeed: true
+inFeed: false
 description: "\_As a digital nomad, one of the items\nyou're checking repeatedly is lodging. Which neighborhood in your selected\ndestination of the moment is best? What are the prices like? What kind of\nrestaurants, bars, historic sites, and such, are nearby? Is it the kind of\nspace that you'll need to locate a coffee house or coworking space?\_"
-dateModified: '2018-06-06T22:45:06.224Z'
-datePublished: '2018-06-06T22:45:06.882Z'
+dateModified: '2018-06-06T22:46:52.571Z'
+datePublished: '2018-06-06T22:46:53.660Z'
 title: Check Your Assumptions
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-06-06-check-your-assumptions.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-06-06T22:41:23.689Z'
+url: check-your-assumptions/index.html
 _type: Blurb
 
 ---
@@ -47,30 +49,9 @@ Then there are the small annoyances that when I look back on them, I laugh. For 
 When I arrive and get myself settled, I discover that yes there are two (count them! two) hangers. While technically two hangers fulfill the basic requirement of "hangers," the situation isn't exactly what I had in mind! I travel with couple of my own hangers. It wasn't the end of the world, but it was a small annoyance.  
 Another small annoyance -- hairdryers. I know; how can hairdryers qualify as an annoyance? Let me explain. The listing for the property said that a hairdryer was available. What the host didn't say was that the hair dryer dated from probably 1970's and had asbestos lining. No kidding, you couldn't make this stuff up! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/369e9f2d-5acc-4adc-bae8-8e43dfd6d4dc.png)
 
-Finally, my all-time unexpected occurrence is the host who decided to accompany
-me for a day of sightseeing. I was planning to take an Uber to my destination.
-The owner came outside and saw me waiting for the Uber. He insisted that I
-cancel my Uber and he would walk me to the transit station to board a train.
-All right, I decided that maybe checking out the public transpo option might be
-a good idea.  
-Yet, when we arrived at the ticket office, he bought two tickets -- one for
-me and another for himself with my money! This man spent his entire day
-following me around! Granted, he was polite in a non-harrassing sort of way.
-Still, I didn't have enough command of Spanish at that moment to insist that he
-return to his home and that I could manage on my own.   
-  
-Today my Spanish language skills are much improved and future attempts to
-encroach on my plans will be met with a firm insistence that I can
-manage. 
+Finally, my all-time unexpected occurrence is the host who decided to accompany me for a day of sightseeing. I was planning to take an Uber to my destination. The owner came outside and saw me waiting for the Uber. He insisted that I cancel my Uber and he would walk me to the transit station to board a train. All right, I decided that maybe checking out the public transpo option might be a good idea.  
+Yet, when we arrived at the ticket office, he bought two tickets -- one for me and another for himself with my money! This man spent his entire day following me around! Granted, he was polite in a non-harrassing sort of way. Still, I didn't have enough command of Spanish at that moment to insist that he return to his home and that I could manage on my own.   
+Today my Spanish language skills are much improved and future attempts to encroach on my plans will be met with a firm insistence that I can manage. 
 
-Lately, I've been gravitating to the
-Facebook groups. Why? It's simply because the people listing their spaces on
-those groups (I can tell) have encountered similar challenges to mine. How do I
-know this? It's in the excruciatingly detailed way that they describe their
-spaces, to the point that you almost have no questions when you've finished
-reading.
-
-Still, it pays to check --reviews, with colleagues
-and other digital nomads, and most importantly, your assumptions. What are you assuming about the place you might
-be living in for several months? Those assumptions, unless investigated, could
-come back and bite you in the butt.
+Lately, I've been gravitating to the Facebook groups. Why? It's simply because the people listing their spaces on those groups (I can tell) have encountered similar challenges to mine. How do I know this? It's in the excruciatingly detailed way that they describe their
+spaces, to the point that you almost have no questions when you've finished reading. Still, it pays to check --reviews, with colleagues and other digital nomads, and most importantly, your assumptions. What are you assuming about the place you might be living in for several months? Those assumptions, unless investigated, could come back and bite you in the butt.
