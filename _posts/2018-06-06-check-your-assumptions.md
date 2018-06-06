@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: "\_As a digital nomad, one of the items\nyou're checking repeatedly is lodging. Which neighborhood in your selected\ndestination of the moment is best? What are the prices like? What kind of\nrestaurants, bars, historic sites, and such, are nearby? Is it the kind of\nspace that you'll need to locate a coffee house or coworking space?\_"
-dateModified: '2018-06-06T22:46:52.571Z'
-datePublished: '2018-06-06T22:46:53.660Z'
+dateModified: '2018-06-06T22:47:14.283Z'
+datePublished: '2018-06-06T22:47:15.149Z'
 title: Check Your Assumptions
 author: []
 publisher: {}
@@ -30,12 +30,7 @@ These questions are only some of the multitude of issues that can race through t
 Now I've used a variety of booking sites for lodging --- AirBnB, Booking.com, Triposo, and a host of Facebook groups.  Each of these avenues has its place in the world. AirBnB and Booking.com are platforms. Triposo is an aggregator. If you decide to take the route of using them to secure lodging while you travel the world, you should be aware of these challenges.  
 First, when you check with a prospective host about location, bear in mind that
 if you're travelling to a large city (\>five million souls), s/he may not know the location of the nearest coworking space or coffee house. Even more significant, her sense of distance and what constitutes a long walk may be very different yours!   
-When I was preparing for my first stay in Medellín, I asked my host about a
-coworking space and his response was that he'd never heard of it! It took
-coordinating with the coworking space to get myself sorted into a routine that
-would work. My host, it turned out, was more accustomed to boarders who were
-from other parts of Columbia. As such, their concerns and needs were very
-different from mine.  
+When I was preparing for my first stay in Medellín, I asked my host about a coworking space and his response was that he'd never heard of it! It took coordinating with the coworking space to get myself sorted into a routine that would work. My host, it turned out, was more accustomed to boarders who were from other parts of Columbia. As such, their concerns and needs were very different from mine.  
 Next, you know when you're checking to see how many beds there are in the room
 and whether or not the bath is shared or private? There is one more feature you
 need to check if hot water is important to you. Look for a mention of hot water! Seriously! Check this out, unless you're one of those people who enjoys cold showers. If you aren't certain, send your prospective host/hostel manager a quick note inquiring about the availability of hot water. I have been surprised twice. Fortunately, both times were short stays, a week or less, but imagine my unhappiness over washing my hair in ice cold water...NO FUN!
