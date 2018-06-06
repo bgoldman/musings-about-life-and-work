@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: "\_As a digital nomad, one of the items\nyou're checking repeatedly is lodging. Which neighborhood in your selected\ndestination of the moment is best? What are the prices like? What kind of\nrestaurants, bars, historic sites, and such, are nearby? Is it the kind of\nspace that you'll need to locate a coffee house or coworking space?\_"
-dateModified: '2018-06-06T22:47:14.283Z'
-datePublished: '2018-06-06T22:47:15.149Z'
+dateModified: '2018-06-06T23:01:31.470Z'
+datePublished: '2018-06-06T23:01:33.102Z'
 title: Check Your Assumptions
 author: []
 publisher: {}
