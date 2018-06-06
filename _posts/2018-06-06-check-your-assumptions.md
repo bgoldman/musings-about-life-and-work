@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: "\_As a digital nomad, one of the items\nyou're checking repeatedly is lodging. Which neighborhood in your selected\ndestination of the moment is best? What are the prices like? What kind of\nrestaurants, bars, historic sites, and such, are nearby? Is it the kind of\nspace that you'll need to locate a coffee house or coworking space?\_"
-dateModified: '2018-06-06T22:41:22.258Z'
-datePublished: '2018-06-06T22:41:23.689Z'
+dateModified: '2018-06-06T22:45:06.224Z'
+datePublished: '2018-06-06T22:45:06.882Z'
 title: Check Your Assumptions
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-06-06-check-your-assumptions.md
 starred: false
 datePublishedOriginal: '2018-06-06T22:41:23.689Z'
-sourcePath: _posts/2018-06-06-check-your-assumptions.md
 _type: Blurb
 
 ---
@@ -41,40 +41,18 @@ need to check if hot water is important to you. Look for a mention of hot water!
 Third, item to be aware of is that sometimes the advertised room, apartment, or
 hostel has changed ownership, which in and of itself isn't' necessarily an issue. However, when you read all those glowing reviews, you have no way of knowing that they pertain to the prior owner's management and customer service. Ooops! Imagine my dismay at discovering during my second stay in Medellín that the owner everyone spoke so highly of in the reviews was no longer involved with the property. In his stead was someone who viewed the entire setup as a means of funding his lifestyle. Within the first week of moving in, one of the other long-term residents warned me not to expect Internet service
 around the middle of the month. Why? The current owner always waited a week before paying his bill!   
-Initially I thought I was being pranked, but no. The Internet was unavailable
-for several days mid-month and every mid-month that I was there. Thankfully, I
-had a coworking space that I visited everyday so that my work continued.
-However, what if I hadn't found the coworking space? Could I lodge a complaint
-with the platform provider? I could, but they can't make the owner pay his
-bills. Could I say something to the owner? I could and he could also trash me
-on the platform making it more difficult for me to find my next rental.  
-Then there are the small annoyances that when I look back on them, I laugh. For
-instance, I like hanging my clothes. As such, one of the amenities that I
-always check is whether or not hangers are available. What can I say? Hangers,
-and hanging clothes, are important to me. Here I am looking at a prospective
-rental and yes, the host says that hangers are available. I'm happy with
-everything else that I see and I book my stay.
+Initially I thought I was being pranked, but no. The Internet was unavailable for several days mid-month and every mid-month that I was there. Thankfully, I had a coworking space that I visited everyday so that my work continued. However, what if I hadn't found the coworking space? Could I lodge a complaint with the platform provider? I could, but they can't make the owner pay his bills. Could I say something to the owner? I could and he could also trash me on the platform making it more difficult for me to find my next rental.  
+Then there are the small annoyances that when I look back on them, I laugh. For instance, I like hanging my clothes. As such, one of the amenities that I always check is whether or not hangers are available. What can I say? Hangers, and hanging clothes, are important to me. Here I am looking at a prospective rental and yes, the host says that hangers are available. I'm happy with everything else that I see and I book my stay.
 
-When I arrive and get myself settled, I discover that yes there are two (count
-them! two) hangers. While technically two hangers fulfill the basic requirement
-of "hangers," the situation isn't exactly what I had in mind! I
-travel with couple of my own hangers. It wasn't the end of the world, but it
-was a small annoyance.
+When I arrive and get myself settled, I discover that yes there are two (count them! two) hangers. While technically two hangers fulfill the basic requirement of "hangers," the situation isn't exactly what I had in mind! I travel with couple of my own hangers. It wasn't the end of the world, but it was a small annoyance.  
+Another small annoyance -- hairdryers. I know; how can hairdryers qualify as an annoyance? Let me explain. The listing for the property said that a hairdryer was available. What the host didn't say was that the hair dryer dated from probably 1970's and had asbestos lining. No kidding, you couldn't make this stuff up! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/369e9f2d-5acc-4adc-bae8-8e43dfd6d4dc.png)
 
-Another small annoyance -- hairdryers. I know; how can hairdryers qualify
-as an annoyance? Let me explain. The listing for the property said that a
-hairdryer was available. What the host didn't say was that the hair dryer dated
-from probably 1970's and had asbestos lining. No kidding, you couldn't make
-this stuff up!
-
-  
 Finally, my all-time unexpected occurrence is the host who decided to accompany
 me for a day of sightseeing. I was planning to take an Uber to my destination.
 The owner came outside and saw me waiting for the Uber. He insisted that I
 cancel my Uber and he would walk me to the transit station to board a train.
 All right, I decided that maybe checking out the public transpo option might be
-a good idea.
-
+a good idea.  
 Yet, when we arrived at the ticket office, he bought two tickets -- one for
 me and another for himself with my money! This man spent his entire day
 following me around! Granted, he was polite in a non-harrassing sort of way.
