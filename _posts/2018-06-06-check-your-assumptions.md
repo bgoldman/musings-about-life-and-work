@@ -6,8 +6,8 @@ description: >-
   are the prices like? What kind of restaurants, bars, historic sites, and such,
   are nearby? Is it the kind of space that you'll need to locate a coffee house
   or coworking space?
-dateModified: '2018-06-06T23:22:08.964Z'
-datePublished: '2018-06-06T23:22:10.899Z'
+dateModified: '2018-06-06T23:25:32.671Z'
+datePublished: '2018-06-06T23:25:33.614Z'
 title: Check Your Assumptions
 author: []
 publisher: {}
@@ -43,6 +43,7 @@ Initially I thought I was being pranked, but no. The Internet was unavailable fo
 Then there are the small annoyances that when I look back on them, I laugh. For instance, I like hanging my clothes. As such, one of the amenities that I always check is whether or not hangers are available. What can I say? Hangers, and hanging clothes, are important to me. Here I am looking at a prospective rental and yes, the host says that hangers are available. I'm happy with everything else that I see and I book my stay.When I arrive and get myself settled, I discover that yes there are two (count them! two) hangers. While technically two hangers fulfill the basic requirement of "hangers," the situation isn't exactly what I had in mind! I travel with couple of my own hangers. It wasn't the end of the world, but it was a small annoyance.
 
 Another small annoyance -- hairdryers. I know; how can hairdryers qualify as an annoyance? Let me explain. The listing for the property said that a hairdryer was available. What the host didn't say was that the hair dryer dated from probably 1970's and had asbestos lining. No kidding, you couldn't make this stuff up!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c7ccecd-93ca-4783-908a-6d60400b8eae.png)
 
 Finally, my all-time unexpected occurrence is the host who decided to accompany me for a day of sightseeing. I was planning to take an Uber to my destination. The owner came outside and saw me waiting for the Uber. He insisted that I cancel my Uber and he would walk me to the transit station to board a train. All right, I decided that maybe checking out the public transpo option might be a good idea.
 
