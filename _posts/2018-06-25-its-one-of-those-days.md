@@ -4,16 +4,18 @@ description: >-
   Today is one of those days that you hear about as a digital nomad and hope
   like hell it doesn’t happen to you. I have no Internet connectivity where I
   live and there are no alternatives for getting connected.
-dateModified: '2018-06-25T16:52:11.851Z'
-datePublished: '2018-06-25T16:52:12.794Z'
+dateModified: '2018-06-25T16:53:07.209Z'
+datePublished: '2018-06-25T16:53:07.804Z'
 title: It’s One of Those Days!
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-06-25-its-one-of-those-days.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-06-25T16:51:15.223Z'
-_type: Blurb
+url: its-one-of-those-days/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5c651e0-7740-4ca5-b525-5d7abc4c143a.png)
