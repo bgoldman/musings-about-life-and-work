@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-11-01T21:57:46.319Z'
-datePublished: '2018-11-01T21:57:46.905Z'
+dateModified: '2018-11-01T21:58:34.127Z'
+datePublished: '2018-11-01T21:58:34.599Z'
 title: Privacy Policy
 author: []
 publisher: {}
