@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-11-01T21:58:34.127Z'
-datePublished: '2018-11-01T21:58:34.599Z'
+dateModified: '2018-11-01T22:03:55.118Z'
+datePublished: '2018-11-01T22:03:55.965Z'
 title: Privacy Policy
 author: []
 publisher: {}
@@ -17,4 +17,6 @@ _type: MediaObject
 ---
 # Privacy Policy
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="600" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkL1uwzAMhPc8xU2djASdawTNWKBDhgKdZYmuiNqiI1EJ_Palkg5pkUV_ON3dx36QsO77-Lw_Zj47v-IoE9s2SsZhkKp455Hw5OblBZ-Sv_udiTebftkf9LGig_OeSuFhIoxZZgSKlPK69TJ3kESQEVIzZscJS2bJrEwFXKCR2su1yq_qzIVVctniI5riX9Egvs6UFF6Smp9ZrIt52WdORjE7ZUnm67T5e5km8koBLgVk8pKDXYb1MctVFeWCC6EWAuu23y03_rcRq1REdya4ELjluAmnSqUdrUK2gFPlTJjFlvs-7prW8P7ydAaEJIpIRu2UoHJD82oNjCNL_Yogm92ExmSmr3cDbvV-AO_np18" height="400" style=""></iframe>
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtVEtrGzEQvvdXzKlpwW2g14ZAWyikhGJIofSolWa9g3clIWmdbn99v9FasZ3klFg7r-8xczN8ur0PO_ouI-eba_x68-Ym3n7pwlzoXnqmt2aKn-l3SHvqwziGx0yGcjHemeQopmDZzYkp9DRn8TsaUa7Xch_p18CZ1x_1-SBZSkiZHgf2VAZe1id65A5_NOXLONIQctFKNkzReEGyC4gWdPYO3aNJRfu1uMzpIJbzFb6bcSli194kvg9pMkWCR7FxZFvYUbecZkSIHWenoYWT56KISkAwvbvbvifjXOKcOW-oS8DOicoSeUN3Lf5hbU7bFA7i8P3d3cP2_YacKVznLTKxEjbFDSXuOSXMfM1_ATuanVbWqBhylm5clBXy89ShEiDaUez-iUkDnn0oNIrfA0gJSF0uUJbBFAJRkVMOIAMFMZQv0ovpRl5piXNCuypZecYSUvFj5fGfclsSe6czukm8ZICur0hTwTb4buxen2ZwAwWmcOAJDakOw03ZFeTO4KkWcDyFXTJxEHve_-PNdVQHwoffQtir9Jr3mzv6ysYGf-bRe9lzxR-06KnR697FeJmu7Fr0qhFqWxMQi4hKaYZDn5FSPaJjNwNfwSYqJXvbBFSwVc9nyFdJ9OGYTMZatZQj_F_f2L20K4RoA4UIC8k_rkWONPNfKCzaXu1sZwyNEB0xzJWLOgvwwaYQozO1nz8DcG5nBXCNaVYmX-qxKrJNcjB2oW2AKeV0Lra3f8JMk1m0XZ7Hsu7qCLfo-L0c2bnIX6rPoOnQbGjcgVORekN0wz2A6rdX9WxGibe_BknugyYsKFFvQU1M-gsL-ojovMpf2A4-YPdV8lHtc9R_Qz_MwTzYJLFsNPXMcKt-TwaRKq4krHKOuCdyOE1ejb86Vje0pcbIJin5ryLZ4BgKWNAOWbVyklBXL0Foah-1qi4ByhliQx5b1xvBrEMsKvzdtl2sdmIhRLB2Tk835IKEc99PbLIectWC-37F5rXUKpCkC4ksEBjZ-dzMgxLt6jSzXsQfrVg5wbAAy0pKO_2nD9WjJ4F_hrZEr2_2YDKO4nGr6r6k2izhhuMYJZ3kbNUv5ez04J4b6Kgk-NIB_gMRyZBj" height="400" style=""></iframe>
