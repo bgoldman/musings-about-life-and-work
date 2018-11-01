@@ -1,16 +1,17 @@
 ---
-inFeed: true
+inFeed: false
 description: ''
-dateModified: '2018-11-01T21:57:34.567Z'
-datePublished: '2018-11-01T21:57:35.245Z'
+dateModified: '2018-11-01T21:57:46.319Z'
+datePublished: '2018-11-01T21:57:46.905Z'
 title: Privacy Policy
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: 'https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE'
+sourcePath: _posts/2018-11-01-privacy-policy.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-11-01T21:57:35.245Z'
-sourcePath: _posts/2018-11-01-privacy-policy.md
+url: privacy-policy/index.html
 _type: MediaObject
 
 ---
