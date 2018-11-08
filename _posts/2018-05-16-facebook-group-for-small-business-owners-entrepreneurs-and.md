@@ -4,8 +4,8 @@ description: >-
   Going out on your own is exciting! You’re creating a new existence for
   yourself. You’re in control of your time, your workplace, your customers . . .
   everything.
-dateModified: '2018-11-08T22:36:05.130Z'
-datePublished: '2018-11-08T22:36:05.720Z'
+dateModified: '2018-11-08T22:45:09.573Z'
+datePublished: '2018-11-08T22:45:10.459Z'
 title: Facebook Group
 author: []
 publisher: {}
@@ -16,13 +16,14 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2018-05-16T17:46:48.266Z'
 url: facebook-group-for-small-business-owners-entrepreneurs-and/index.html
-_type: Blurb
+_type: MediaObject
 
 ---
 # Facebook Group
 
 ### For Small Business Owners, Entrepreneurs, and Freelancers!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18be9c06-5a3e-4f51-b1ae-da77efd81fac.mp4)
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtz0FuwjAQheGrWN4HtyoEiWC6hEVP0J0zHhILO2ONx7Vy-0bA7v2bT3rncGeXULXgZbb60H9oNWOYZrH66_OgVWGwehbJ5WRMa223UpU64g4oGUwjevN7m64_-79j_9h_Ay3CFIvdnKc8Entkq7d2MVKz2gFgRKaEgjwoV4VydOugcAFes6DvEvrgBjWtTAUo46ByAKmMXVi693x79xpjAUZcLmfzOnP5B4ZQS2o" height="720" style=""></iframe>
 
 Going out on your own is exciting! You're creating a new existence for yourself. You're in control of your time, your workplace, your customers . . . everything.
 
