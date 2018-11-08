@@ -4,8 +4,8 @@ description: >-
   Going out on your own is exciting! You’re creating a new existence for
   yourself. You’re in control of your time, your workplace, your customers . . .
   everything.
-dateModified: '2018-05-29T21:48:20.739Z'
-datePublished: '2018-05-29T21:48:21.636Z'
+dateModified: '2018-11-08T22:36:05.130Z'
+datePublished: '2018-11-08T22:36:05.720Z'
 title: Facebook Group
 author: []
 publisher: {}
@@ -22,11 +22,11 @@ _type: Blurb
 # Facebook Group
 
 ### For Small Business Owners, Entrepreneurs, and Freelancers!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e741241-8e19-4486-8413-7a337ce54ed5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18be9c06-5a3e-4f51-b1ae-da77efd81fac.mp4)
 
 Going out on your own is exciting! You're creating a new existence for yourself. You're in control of your time, your workplace, your customers . . . everything.
 
-Until, you realize that you aren't! 
+Until, you realize that you aren't!
 
 Where do you turn? Who do you talk with? Working on your own can be lonely, but it doesn't need to be. [Join me and over 400 other small business owners, entrepreneurs, and freelancers!][0] Let's talk about the great things and the challenges.
 
