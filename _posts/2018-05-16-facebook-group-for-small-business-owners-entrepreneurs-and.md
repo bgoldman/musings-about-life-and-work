@@ -4,8 +4,8 @@ description: >-
   Going out on your own is exciting! You’re creating a new existence for
   yourself. You’re in control of your time, your workplace, your customers . . .
   everything.
-dateModified: '2018-11-08T22:46:18.179Z'
-datePublished: '2018-11-08T22:46:19.219Z'
+dateModified: '2018-11-08T22:47:05.900Z'
+datePublished: '2018-11-08T22:47:06.521Z'
 title: Facebook Group
 author: []
 publisher: {}
@@ -23,7 +23,7 @@ _type: MediaObject
 
 ### For Small Business Owners, Entrepreneurs, and Freelancers!
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtz0FuwjAQheGrWN4HtyoEiWC6hEVP0J0zHhILO2ONx7Vy-0bA7v2bT3rncGeXULXgZbb60H9oNWOYZrH66_OgVWGwehbJ5WRMa223UpU64g4oGUwjevN7m64_-79j_9h_Ay3CFIvdnKc8Entkq7d2MVKz2gFgRKaEgjwoV4VydOugcAFes6DvEvrgBjWtTAUo46ByAKmMXVi693x79xpjAUZcLmfzOnP5B4ZQS2o" height="360" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtz0FuwjAQheGrWN4HtyoEiWC6hEVP0J0zHhILO2ONx7Vy-0bA7v2bT3rncGeXULXgZbb60H9oNWOYZrH66_OgVWGwehbJ5WRMa223UpU64g4oGUwjevN7m64_-79j_9h_Ay3CFIvdnKc8Entkq7d2MVKz2gFgRKaEgjwoV4VydOugcAFes6DvEvrgBjWtTAUo46ByAKmMXVi693x79xpjAUZcLmfzOnP5B4ZQS2o" height="320" style=""></iframe>
 
 Going out on your own is exciting! You're creating a new existence for yourself. You're in control of your time, your workplace, your customers . . . everything.
 
