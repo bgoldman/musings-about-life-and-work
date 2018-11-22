@@ -51,9 +51,6 @@ navigation:
   - name: Book An Introductory Meeting
     url: 'https://my.timetrade.com/book/56R7L'
     type: external
-  - name: Digital Nomad Life
-    id: ed019667-f16e-467f-8a59-297ec900c517
-    type: content
   - name: Privacy Policy
     id: 1ba38c7f-00b0-4b06-980d-ee8536a347bf
     type: content
