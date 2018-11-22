@@ -4,8 +4,8 @@ description: >-
   As I sit at my desk in Medellín it's simply another work day here. Yet, I find
   myself thinking about all the people, events, and activities that I have been
   privileged to know and experience.
-dateModified: '2018-11-22T22:55:55.068Z'
-datePublished: '2018-11-22T22:55:55.718Z'
+dateModified: '2018-11-22T22:56:49.182Z'
+datePublished: '2018-11-22T22:56:49.756Z'
 title: Happy Thanksgiving 2018!!!
 author: []
 publisher: {}
