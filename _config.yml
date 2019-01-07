@@ -54,6 +54,9 @@ navigation:
   - name: Privacy Policy
     id: 1ba38c7f-00b0-4b06-980d-ee8536a347bf
     type: content
+  - name: Digital Nomad Life
+    id: 038bd97d-060b-4111-a539-ec54f82e4506
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/50d64d0e-7aa9-4144-bb9b-7a9e780da4ae.ico
 collections:
