@@ -6,8 +6,8 @@ description: >-
   are the prices like? What kind of restaurants, bars, historic sites, and such,
   are nearby? Is it the kind of space that you'll need to locate a coffee house
   or coworking space?
-dateModified: '2018-06-06T23:25:32.671Z'
-datePublished: '2018-06-06T23:25:33.614Z'
+dateModified: '2019-01-07T21:44:44.484Z'
+datePublished: '2019-01-07T21:44:45.822Z'
 title: Check Your Assumptions
 author: []
 publisher: {}
