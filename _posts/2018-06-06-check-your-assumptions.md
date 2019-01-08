@@ -6,8 +6,8 @@ description: >-
   are the prices like? What kind of restaurants, bars, historic sites, and such,
   are nearby? Is it the kind of space that you'll need to locate a coffee house
   or coworking space?
-dateModified: '2019-01-08T11:57:14.568Z'
-datePublished: '2019-01-08T11:57:16.360Z'
+dateModified: '2019-01-08T11:57:38.729Z'
+datePublished: '2019-01-08T11:57:40.270Z'
 title: Check Your Assumptions
 author: []
 publisher: {}
@@ -36,7 +36,7 @@ When I was preparing for my first stay in Medellín, I asked my host about a cow
 
 You know when you're checking to see how many beds there are in the room and whether or not the bath is shared or private? There is one more feature you need to check if hot water is important to you. Look for a mention of hot water! Seriously! Check this out, unless you're one of those people who enjoys cold showers. If you aren't certain, send your prospective host/hostel manager a quick note inquiring about the availability of hot water. I have been surprised twice. Fortunately, both times were short stays, a week or less, but imagine my unhappiness over washing my hair in ice cold water...NO FUN!
 
-Third, item to be aware of is that sometimes the advertised room, apartment, or hostel has changed ownership, which in and of itself isn't' necessarily an issue. However, when you read all those glowing reviews, you have no way of knowing that they pertain to the prior owner's management and customer service. Ooops! Imagine my dismay at discovering during my second stay in Medellín that the owner everyone spoke so highly of in the reviews was no longer involved with the property. In his stead was someone who viewed the entire setup as a means of funding his lifestyle. Within the first week of moving in, one of the other long-term residents warned me not to expect Internet service around the middle of the month. Why? The current owner always waited a week before paying his bill!
+Third, item to be aware of is that sometimes the advertised room, apartment, or hostel has changed ownership, which in and of itself isn't' necessarily an issue. However, when you read all those glowing reviews, you have no way of knowing that they pertain to the prior owner's management and customer service. Oops! Imagine my dismay at discovering during my second stay in Medellín that the owner everyone spoke so highly of in the reviews was no longer involved with the property. In his stead was someone who viewed the entire setup as a means of funding his lifestyle. Within the first week of moving in, one of the other long-term residents warned me not to expect Internet service around the middle of the month. Why? The current owner always waited a week before paying his bill!
 
 Initially I thought I was being pranked, but no. The Internet was unavailable for several days mid-month and every mid-month that I was there. Thankfully, I had a coworking space that I visited everyday so that my work continued. However, what if I hadn't found the coworking space? Could I lodge a complaint with the platform provider? I could, but they can't make the owner pay his bills. Could I say something to the owner? I could and he could also trash me on the platform making it more difficult for me to find my next rental.
 
