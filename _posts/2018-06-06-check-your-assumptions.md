@@ -6,8 +6,8 @@ description: >-
   are the prices like? What kind of restaurants, bars, historic sites, and such,
   are nearby? Is it the kind of space that you'll need to locate a coffee house
   or coworking space?
-dateModified: '2019-01-08T12:51:00.248Z'
-datePublished: '2019-01-08T12:51:02.325Z'
+dateModified: '2019-01-08T12:52:04.570Z'
+datePublished: '2019-01-08T12:52:07.519Z'
 title: Check Your Assumptions
 author: []
 publisher: {}
@@ -51,4 +51,4 @@ Yet, when we arrived at the ticket office, he bought two tickets -- one for me a
 
 Today my Spanish language skills are much improved and future attempts to encroach on my plans will be met with a firm insistence that I can manage. Lately, I've been gravitating to the Facebook groups. Why? It's simply because the people listing their spaces on those groups (I can tell) have encountered similar challenges to mine. How do I know this? It's in the excruciatingly detailed way that they describe their spaces, to the point that you almost have no questions when you've finished reading.
 
-Still, it pays to check --reviews, with colleagues and other digital nomads, and most importantly, your assumptions. What are you assuming about the place you might be living in for several months? Those assumptions, unless investigated, could come back and bite you in the butt.
+Still, it pays to check reviews --- with colleagues and other digital nomads --- and most importantly, your assumptions. What are you assuming about the place you might be living in for several months? Those assumptions, unless investigated, could come back and bite you in the butt.
