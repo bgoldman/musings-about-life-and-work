@@ -6,8 +6,8 @@ description: >-
   are the prices like? What kind of restaurants, bars, historic sites, and such,
   are nearby? Is it the kind of space that you'll need to locate a coffee house
   or coworking space?
-dateModified: '2019-01-08T11:57:38.729Z'
-datePublished: '2019-01-08T11:57:40.270Z'
+dateModified: '2019-01-08T12:51:00.248Z'
+datePublished: '2019-01-08T12:51:02.325Z'
 title: Check Your Assumptions
 author: []
 publisher: {}
@@ -28,7 +28,7 @@ As a digital nomad, one of the items you're checking repeatedly is lodging. Whic
 
 These questions are only some of the multitude of issues that can race through the brain of a digital nomad.
 
-Now I've used a variety of booking sites for lodging --- AirBnB, Booking.com, Triposo, and a host of Facebook groups. Each of these avenues has its place in the world. AirBnB and Booking.com are platforms. Triposo is an aggregator. If you decide to take the route of using them to secure lodging while you travel the world, you should be aware of these challenges.
+Now I've used a variety of booking sites for lodging --- AirBnB, Booking.com, Triposo, and a host of Facebook groups. Each of these avenues has its place in the world. AirBnB and Booking.com are platforms. Triposo is an aggregater. If you decide to take the route of using them to secure lodging while you travel the world, you should be aware of these challenges.
 
 First, when you check with a prospective host about location, bear in mind that if you're travelling to a large city (\>five million souls), s/he may not know the location of the nearest coworking space or coffee house. Even more significant, her sense of distance and what constitutes a long walk may be very different yours!
 
