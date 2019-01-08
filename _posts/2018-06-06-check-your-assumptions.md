@@ -6,8 +6,8 @@ description: >-
   are the prices like? What kind of restaurants, bars, historic sites, and such,
   are nearby? Is it the kind of space that you'll need to locate a coffee house
   or coworking space?
-dateModified: '2019-01-08T11:56:58.611Z'
-datePublished: '2019-01-08T11:57:00.048Z'
+dateModified: '2019-01-08T11:57:14.568Z'
+datePublished: '2019-01-08T11:57:16.360Z'
 title: Check Your Assumptions
 author: []
 publisher: {}
@@ -47,7 +47,7 @@ Another small annoyance -- hairdryers. I know; how can hairdryers qualify as an 
 
 Finally, my all-time unexpected occurrence is the host who decided to accompany me for a day of sightseeing. I was planning to take an Uber to my destination. The owner came outside and saw me waiting for the Uber. He insisted that I cancel my Uber and he would walk me to the transit station to board a train. All right, I decided that maybe checking out the public transpo option might be a good idea.
 
-Yet, when we arrived at the ticket office, he bought two tickets -- one for me and another for himself with my money! This man spent his entire day following me around! Granted, he was polite in a non-harrassing sort of way. Still, I didn't have enough command of Spanish at that moment to insist that he return to his home and that I could manage on my own.
+Yet, when we arrived at the ticket office, he bought two tickets -- one for me and another for himself with my money! This man spent his entire day following me around! Granted, he was polite in a non-harassing sort of way. Still, I didn't have enough command of Spanish at that moment to insist that he return to his home and that I could manage on my own.
 
 Today my Spanish language skills are much improved and future attempts to encroach on my plans will be met with a firm insistence that I can manage. Lately, I've been gravitating to the Facebook groups. Why? It's simply because the people listing their spaces on those groups (I can tell) have encountered similar challenges to mine. How do I know this? It's in the excruciatingly detailed way that they describe their spaces, to the point that you almost have no questions when you've finished reading.
 
